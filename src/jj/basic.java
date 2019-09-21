@@ -3,6 +3,7 @@ package jj;
 public class basic {
 	
 	public static void main(String[] args) {
-	System.out.println("ht");
+		System.out.println("hii");
+		System.out.println("hello");
 }
 }
